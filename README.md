@@ -1,6 +1,10 @@
 # bot-discord-albion
 Desarrollo de bot de Discord para gestion de partys en clan<br>
-
+<br>
+Soy un tipazo. <br>
+La ventaja de ser un maquina y hacerle reingeniería a otro desarrollo y ahorrarme 55€<br>
+Copia de > https://raid-helper.dev/<br>
+<br><br>
 /project-root<br>
 |-- /commands<br>
 |---|-- help.js<br>
