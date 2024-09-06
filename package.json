@@ -1,0 +1,17 @@
+{
+  "name": "bot-albion",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MathiDDev",
+  "license": "ISC",
+  "description": "Management Clan",
+  "dependencies": {
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "luxon": "^3.5.0"
+  }
+}
